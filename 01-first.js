@@ -6,7 +6,7 @@ const opts = {
   port: 4723,
   capabilities: {
     platformName: "Android",
-    platformVersion: "11",
+    platformVersion: "10",
     deviceName: "Android Emulator",
     // app: "http://appium.github.io/appium/assets/ApiDemos-debug.apk",
     appPackage: "io.appium.android.apis",
